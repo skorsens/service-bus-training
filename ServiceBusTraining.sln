@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusSender", "Service
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusReceiver", "ServiceBusReceiver\ServiceBusReceiver.csproj", "{72B69A2D-6501-4890-AD46-9C16D649EC15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicSender", "TopicSender\TopicSender.csproj", "{35B9C169-A423-495C-833F-0C08939E6250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{72B69A2D-6501-4890-AD46-9C16D649EC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B69A2D-6501-4890-AD46-9C16D649EC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B69A2D-6501-4890-AD46-9C16D649EC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B9C169-A423-495C-833F-0C08939E6250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B9C169-A423-495C-833F-0C08939E6250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B9C169-A423-495C-833F-0C08939E6250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B9C169-A423-495C-833F-0C08939E6250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
